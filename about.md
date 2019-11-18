@@ -16,7 +16,7 @@ View this repository on <a href="{{ site.github.repository_url }}">GitHub</a>
 <script>
     var avatar = document.getElementsByClassName('avatar')[0]
     console.log(avatar)
-    fetch('https2://api.github.com/users/foger')
+    fetch('https://api.github.com/users/foger')
     .then(response => response.json())
     .then(data => {
         avatar.src = data['avatar_url']
