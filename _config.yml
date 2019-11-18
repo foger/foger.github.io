@@ -1,0 +1,9 @@
+title: Sergey Shutko
+description: >-
+    My personal web page on GitHub Pages.<br/>
+    Some articles and news will be posted here
+github_username: foger
+
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
