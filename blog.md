@@ -19,7 +19,7 @@ title: Blog
     {% if post.content contains "<!-- more -->" %}
       {{ post.content | split:"<!-- more -->" | first % }}
       <div style="text-align:right;">
-        <a href="{{ post.url }}" class="btn"> Read More </a>
+        <a href="{{ post.url }}" class="readmore"> Read More </a>
       </div>
     {% else %}
       {{ post.content }}
