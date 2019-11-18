@@ -6,6 +6,6 @@ permalink: /about.html
 
 # About me
 
-<p align="center"><img src="assets/img/avatar.jpeg"></p>
+<p align="center"><img src="assets/img/avatar.jpeg" width="35%" height="35%"></p>
 
 Hello. My name is Sergey Shutko. I'm interested in `DevOps`.
