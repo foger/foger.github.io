@@ -76,6 +76,8 @@ http {
 }
 ```
 
+<!-- more -->
+
 **/etc/php/7.2/fpm/conf.d/99-zabbix.ini**
 
 ```
