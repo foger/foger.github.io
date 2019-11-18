@@ -11,7 +11,6 @@ permalink: /about.html
 </p>
 
 Hello. My name is Sergey Shutko. I'm interested in `DevOps`.<br/>
-View this repository on <a href="{{ site.github.repository_url }}">GitHub</a>
 
 <script>
     var avatar = document.getElementsByClassName('avatar')[0]
