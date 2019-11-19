@@ -21,7 +21,7 @@ Hello. My name is Sergey Shutko. I'm interested in `DevOps`.<br/>
         avatar.src = data['avatar_url']
     })
     .catch(error => {
-        avatar.src = "assets/img/avatar.png"
+        avatar.src = "/assets/img/avatar.png"
         console.error(error)
     })
 </script>
